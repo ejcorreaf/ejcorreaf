@@ -2,7 +2,7 @@
 
 Desarrollador Full-Stack • Graduado DAW • Badajoz
 
-Actualmente: practicando TS + Node/Express + Angular, buscando mi primera experiencia laboral seria.
+Actualmente: practicando TS + Angular, buscando mi primera experiencia laboral seria.
 
 **Stack Principal**
 
