@@ -1,4 +1,4 @@
-<h1 align="center">¡Muy buenas! Soy Josef</h1> <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> 
+<h1 align="center">¡Muy buenas! Soy Josef <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> </h1> 
 
 Desarrollador Full-Stack • Graduado DAW • Badajoz
 
@@ -6,8 +6,8 @@ Actualmente: practicando TS + Node/Express + Angular, buscando mi primera experi
 
 **Stack Principal**
 
-Frontend: HTML • CSS • JavaScript • TypeScript • Angular  
-Backend: PHP • Laravel • Java • Spring Boot  
+**Frontend:** HTML • CSS • JavaScript • TypeScript • Angular  
+**Backend:** PHP • Laravel • Java • Spring Boot  
 
 **Lenguajes y Frameworks**
 
