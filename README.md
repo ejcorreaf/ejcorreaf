@@ -1,4 +1,4 @@
-<h1 align="center">¡Muy buenas! Soy Josef <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> </h1> 
+<h1 align="center">¡Muy buenas! Soy Eric <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> </h1> 
 
 Desarrollador Full-Stack • Graduado DAW • Badajoz
 
